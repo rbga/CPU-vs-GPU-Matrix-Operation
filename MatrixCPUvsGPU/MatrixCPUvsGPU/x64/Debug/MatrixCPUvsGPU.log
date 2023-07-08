@@ -1,0 +1,6 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\rah12\source\repos\MatrixCPUvsGPU\MatrixCPUvsGPU>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include"  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o C:\Users\rah12\source\repos\MatrixCPUvsGPU\MatrixCPUvsGPU\x64\Debug\kernel.cu.obj "C:\Users\rah12\source\repos\MatrixCPUvsGPU\MatrixCPUvsGPU\kernel.cu" 
+  kernel.cu
+  tmpxft_000045e0_00000000-7_kernel.cudafe1.cpp
+  MatrixCPUvsGPU.vcxproj -> C:\Users\rah12\source\repos\MatrixCPUvsGPU\x64\Debug\MatrixCPUvsGPU.exe

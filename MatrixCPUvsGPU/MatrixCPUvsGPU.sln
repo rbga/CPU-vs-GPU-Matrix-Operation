@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MatrixCPUvsGPU", "MatrixCPUvsGPU\MatrixCPUvsGPU.vcxproj", "{E9BFCC8F-FD9D-4220-BCB7-336016533B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9BFCC8F-FD9D-4220-BCB7-336016533B31}.Debug|x64.ActiveCfg = Debug|x64
+		{E9BFCC8F-FD9D-4220-BCB7-336016533B31}.Debug|x64.Build.0 = Debug|x64
+		{E9BFCC8F-FD9D-4220-BCB7-336016533B31}.Release|x64.ActiveCfg = Release|x64
+		{E9BFCC8F-FD9D-4220-BCB7-336016533B31}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EBBB009-F03F-4B15-8671-0F8CF240B6BB}
+	EndGlobalSection
+EndGlobal
