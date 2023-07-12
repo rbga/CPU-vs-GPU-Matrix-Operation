@@ -1,6 +1,5 @@
 # CPUvsGPUMatrixOperation
 A performance comparison of standard matrix functions between CPU and GPU using Nvidia CUDA on Visual Studio using C++
-
 This code is a CUDA program that performs various matrix operations including addition, subtraction, multiplication, and transpose. The program provides both CPU and GPU implementations for these operations and compares their execution times.
 
 The code begins by including the necessary CUDA runtime and device launch parameters headers, as well as standard C libraries for input/output and random number generation.
