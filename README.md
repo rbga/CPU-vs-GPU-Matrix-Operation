@@ -27,9 +27,6 @@ Finally, the memory is freed, and the program terminates.
 
 ## Output
 
-OUTPUT
-------
-
 Rows and Column must be equal, Enter the number of rows: 2
 Enter the number of columns: 3
 
@@ -38,6 +35,7 @@ Enter the number of rows: 5
 Enter the number of columns: 5
 
 Matrix A:
+
 | 42 | 68 | 35 |  1 | 70 |
 | 25 | 79 | 59 | 63 | 65 |
 |  6 | 46 | 82 | 28 | 62 |
@@ -45,6 +43,7 @@ Matrix A:
 | 92 |  5 |  3 | 54 | 93 |
 
 Matrix B:
+
 | 83 | 22 |  17 | 19 | 96 |
 | 48 | 27 |  72 | 39 | 70 |
 | 13 | 68 | 100 | 36 | 95 |
