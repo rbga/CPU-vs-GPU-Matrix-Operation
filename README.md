@@ -150,7 +150,8 @@ Time taken (GPU - CUDA): 0.000000 seconds
 
 ------------------------------------------------------------------------
 
-#Simulation of a larger Matrix
+## Simulation of a larger Matrix
+
 ![1689102996461](https://github.com/rbga/CPUvsGPUMatrixOperation/assets/75168756/a5952e17-5c24-450d-ad6f-ef2cfc12f3f9)
 
 
