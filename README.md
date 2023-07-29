@@ -1,4 +1,4 @@
-# CPUvsGPUMatrixOperation
+# CPU vs GPU Matrix Operation
 
 A performance comparison of standard matrix functions between CPU and GPU using Nvidia CUDA on Visual Studio using C++
 
